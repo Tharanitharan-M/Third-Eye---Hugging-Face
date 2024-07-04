@@ -20,7 +20,7 @@ Third Eye is an assistive technology designed for visually impaired individuals.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/thirdeye.git
+git clone [https://github.com/yourusername/thirdeye.git](https://github.com/Tharanitharan-M/Third-Eye---Hugging-Face.git)
 ```
 
 2. Install the required Python packages:
