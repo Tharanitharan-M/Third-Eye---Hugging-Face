@@ -14,7 +14,6 @@ Third Eye is an assistive technology designed for visually impaired individuals.
 ### Prerequisites
 
 - Python 3.7+
-- [pip](https://pip.pypa.io/en/stable/installation/)
 
 ### Install Dependencies
 
